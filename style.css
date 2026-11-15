@@ -1,0 +1,39 @@
+/* Light styling: each section looks like its own panel (extra credit) */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  background: #f2f5f7;
+  color: #1c2b36;
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 3px solid #2f6f8f;
+  padding-bottom: 0.4rem;
+}
+
+section {
+  background: #ffffff;
+  border: 1px solid #cfd8de;
+  border-left: 6px solid #2f6f8f;
+  border-radius: 6px;
+  padding: 0.5rem 1.25rem 1rem;
+  margin: 1.25rem 0;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+.message {
+  font-weight: bold;
+  color: #2f6f8f;
+}
